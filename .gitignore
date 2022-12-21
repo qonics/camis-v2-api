@@ -1,0 +1,5 @@
+.env
+go.sum
+camis-v2-api*
+camis-v2-api*
+tmp/*
